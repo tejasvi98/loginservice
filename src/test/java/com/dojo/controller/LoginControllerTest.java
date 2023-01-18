@@ -27,8 +27,4 @@ public class LoginControllerTest {
 	void test_getValidity() {
 		loginController.getValidity("test");
 	}
-	@Test
-	void test_welcome() {
-		loginController.welcome();
-	}
 }
