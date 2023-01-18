@@ -1,0 +1,2 @@
+insert into user (username,dob,pan,account_type,address,contact_number,country,email,name,password,state) values ('jay123','1997-10-10', 'asdfg1234r', 'savings','delhi, new delhi', 1234567890, 'India', 'jay@jay.com', 'Jay Sahu','asdf', 'Jharkhand');
+insert into user (username,dob,pan,account_type,address,contact_number,country,email,name,password,state) values ('ram123','1998-10-31', 'asdfg1234g', 'savings','delhi, new delhi', 1234567891, 'India', 'ram@ram.com', 'Ram','asdfa', 'Delhi');
